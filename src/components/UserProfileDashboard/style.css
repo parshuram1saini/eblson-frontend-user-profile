@@ -1,0 +1,7 @@
+.weather-dashboard-container {
+    padding-top: 25px;
+}
+
+.weather-card{
+    background-color: rgba(25, 118, 210, 0.04) !important;
+}
